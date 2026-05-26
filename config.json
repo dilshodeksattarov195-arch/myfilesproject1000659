@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emaileecrypt",
+        "uuid": 816501,
+        "checksum": "2utg8"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
